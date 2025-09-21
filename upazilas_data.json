@@ -1,8 +1,4 @@
-[
-{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"bd_geo_code"},
-{"type":"table","name":"upazilas","database":"bd_geo_code","data":
-[
+{"data":[
 {"id":"1","district_id":"1","name":"Debidwar","bn_name":"দেবিদ্বার","url":"debidwar.comilla.gov.bd"},
 {"id":"2","district_id":"1","name":"Barura","bn_name":"বরুড়া","url":"barura.comilla.gov.bd"},
 {"id":"3","district_id":"1","name":"Brahmanpara","bn_name":"ব্রাহ্মণপাড়া","url":"brahmanpara.comilla.gov.bd"},
@@ -499,4 +495,3 @@
 {"id":"494","district_id":"50","name":"Dasar","bn_name":"ডাসার","url":"null"}
 ]
 }
-]
