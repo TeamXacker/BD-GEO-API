@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Dhaka Medical College Blood Bank",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazilla": "Dhanmondi",
+        "phone": "+880-2-8616980",
+        "address": "Dhaka Medical College Hospital, Dhaka"
+    },
+    {
+        "name": "Square Hospital Blood Bank",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazilla": "Dhanmondi",
+        "phone": "+880-2-8159457",
+        "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka"
+    },
+    {
+        "name": "United Hospital Blood Bank",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazilla": "Gulshan",
+        "phone": "+880-2-8836000",
+        "address": "Plot 15, Road 71, Gulshan, Dhaka"
+    },
+    {
+        "name": "Chittagong Medical College Blood Bank",
+        "division": "Chittagong",
+        "district": "Chittagong",
+        "upazilla": "Agrabad",
+        "phone": "+880-31-2203310",
+        "address": "Chittagong Medical College Hospital, Chittagong"
+    },
+    {
+        "name": "Imperial Hospital Blood Bank",
+        "division": "Chittagong",
+        "district": "Chittagong",
+        "upazilla": "Agrabad",
+        "phone": "+880-31-652435",
+        "address": "2297/2A Mehedibag Road, Chittagong"
+    },
+    {
+        "name": "Rajshahi Medical College Blood Bank",
+        "division": "Rajshahi",
+        "district": "Rajshahi",
+        "upazilla": "Shaheb Bazar",
+        "phone": "+880-721-772150",
+        "address": "Rajshahi Medical College Hospital, Rajshahi"
+    },
+    {
+        "name": "Apollo Hospital Blood Bank",
+        "division": "Dhaka",
+        "district": "Dhaka",
+        "upazilla": "Uttara",
+        "phone": "+880-2-8401661",
+        "address": "Plot 81, Block E, Bashundhara R/A, Dhaka"
+    },
+    {
+        "name": "Chevron Clinical Laboratory",
+        "division": "Chittagong",
+        "district": "Chittagong",
+        "upazilla": "Panchlaish",
+        "phone": "+880-31-2856620",
+        "address": "834/A, O.R. Nizam Road, Chittagong"
+    }
+]
