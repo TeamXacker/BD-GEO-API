@@ -1,66 +1,106 @@
 [
     {
-        "name": "Dhaka Medical College Blood Bank",
-        "division": "Dhaka",
-        "district": "Dhaka",
-        "upazilla": "Dhanmondi",
-        "phone": "+880-2-8616980",
-        "address": "Dhaka Medical College Hospital, Dhaka"
+        "name": "Sandhani, Dinajpur Medical College Unit",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazilla": "Dinajpur Sadar",
+        "phone": "0531-4787",
+        "address": ""
     },
     {
-        "name": "Square Hospital Blood Bank",
-        "division": "Dhaka",
-        "district": "Dhaka",
-        "upazilla": "Dhanmondi",
-        "phone": "+880-2-8159457",
-        "address": "18/F, Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka"
+        "name": "Begum Tayeeba Mojumder Red Crescent Blood Centre",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazilla": "Dinajpur Sadar",
+        "phone": "0531-64021",
+        "address": ""
     },
     {
-        "name": "United Hospital Blood Bank",
-        "division": "Dhaka",
-        "district": "Dhaka",
-        "upazilla": "Gulshan",
-        "phone": "+880-2-8836000",
-        "address": "Plot 15, Road 71, Gulshan, Dhaka"
+        "name": "Laboni Blood Bank of Birganj",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazilla": "Birganj Upazila",
+        "phone": "+8801737187669",
+        "address": ""
     },
     {
-        "name": "Chittagong Medical College Blood Bank",
-        "division": "Chittagong",
-        "district": "Chittagong",
-        "upazilla": "Agrabad",
-        "phone": "+880-31-2203310",
-        "address": "Chittagong Medical College Hospital, Chittagong"
+        "name": "Educated Generation Blood Bank (CEG Blood Bank)",
+        "division": "Rangpur",
+        "district": "Dinajpur",
+        "upazilla": "Dinajpur",
+        "phone": "+8801839374055",
+        "address": ""
     },
     {
-        "name": "Imperial Hospital Blood Bank",
-        "division": "Chittagong",
-        "district": "Chittagong",
-        "upazilla": "Agrabad",
-        "phone": "+880-31-652435",
-        "address": "2297/2A Mehedibag Road, Chittagong"
+        "name": "Thakurgaon Blood Bank and Transfusion Center",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazilla": "Thakurgaon Sadar",
+        "phone": "01934-755668",
+        "address": ""
     },
     {
-        "name": "Rajshahi Medical College Blood Bank",
-        "division": "Rajshahi",
-        "district": "Rajshahi",
-        "upazilla": "Shaheb Bazar",
-        "phone": "+880-721-772150",
-        "address": "Rajshahi Medical College Hospital, Rajshahi"
+        "name": "Adhunik Sadar Hospital Blood Bank",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazilla": "Thakurgaon Sadar",
+        "phone": "01730-324816",
+        "address": ""
     },
     {
-        "name": "Apollo Hospital Blood Bank",
-        "division": "Dhaka",
-        "district": "Dhaka",
-        "upazilla": "Uttara",
-        "phone": "+880-2-8401661",
-        "address": "Plot 81, Block E, Bashundhara R/A, Dhaka"
+        "name": "Bondhon Blood Bank",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazilla": "Thakurgaon Sadar",
+        "phone": "8801737618040",
+        "address": ""
     },
     {
-        "name": "Chevron Clinical Laboratory",
-        "division": "Chittagong",
-        "district": "Chittagong",
-        "upazilla": "Panchlaish",
-        "phone": "+880-31-2856620",
-        "address": "834/A, O.R. Nizam Road, Chittagong"
+        "name": "Safe Blood Bank and Transfusion Centre",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "upazilla": "Thakurgaon Sadar",
+        "phone": "1704182197",
+        "address": ""
+    },
+    {
+        "name": "Ideal Foundation (Diagnostic & Blood Bank)",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazilla": "Rangpur City",
+        "phone": "01988-877800",
+        "address": "6/7 Treatment Tower, Rangpur - Dinajpur Hwy, Rangpur City"
+    },
+    {
+        "name": "Ideal Blood Bank & Diagnostic Center",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazilla": "Rangpur City",
+        "phone": "01988-877800",
+        "address": "Dhap Road, Rangpur City"
+    },
+    {
+        "name": "TPI Blood Donate Foundation-Rangpur",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazilla": "Rangpur City",
+        "phone": "01796-080374",
+        "address": "Darshana, Rangpur (City)"
+    },
+    {
+        "name": "Sandhani — Rangpur Medical College Unit",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazilla": "Rangpur City",
+        "phone": "52165180",
+        "address": "Rangpur Medical College, Rangpur"
+    },
+    {
+        "name": "Dept. of Transfusion Medicine & Blood Bank, RCMCH",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "upazilla": "Rangpur City",
+        "phone": "8801783106443",
+        "address": "1st floor, Rangpur Community Medical College & Hospital Building"
     }
 ]
