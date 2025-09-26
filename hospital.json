@@ -457,5 +457,2421 @@
         "phone": "0521-65955",
         "hours": "",
         "address": "R.K Road, Rangpur"
-    }
+    },
+    {
+    "name": "National Heart Foundation Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mirpur",
+    "address": "Mirpur 02",
+    "phone": "09666-750075"
+  },
+  {
+    "name": "Labaid Cardiac Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House- 06, Road-04, Dhanmondi",
+    "phone": "01713333337, 01766663222, 01766662111"
+  },
+  {
+    "name": "Ibrahim Cardiac Hospital & Research institute",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shahbagh",
+    "address": "122, Kazi Nazrul Islam Avenue, Shahbagh",
+    "phone": "41060451-8 (Ext-206), 01714 006706"
+  },
+  {
+    "name": "Bangladesh Specialized Hospital Ltd. (BSHL)",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shyamoli",
+    "address": "21 Shyamoli, Mirpur Road",
+    "phone": "8809666700100"
+  },
+  {
+    "name": "Asgar Ali Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Gandaria",
+    "address": "111/1/A Distillery Road, Gandaria",
+    "phone": "10602, +8802 47443135-48, +8801787683333"
+  },
+  {
+    "name": "Ibn Sina Specialized Hospital, Dhanmondi",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House#68, Road#15/A, Dhanmondi",
+    "phone": "10615, 0182-3039800, 01797-300100"
+  },
+  {
+    "name": "Square Hospitals Ltd",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Panthapath",
+    "address": "8/f, Bir uttam Qazi Nuruzzaman sarak, West Panthapath",
+    "phone": "10616"
+  },
+  {
+    "name": "Evercare Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Bashundhara",
+    "address": "Bashundhar r/a",
+    "phone": "01713-064563, 02-55037242"
+  },
+  {
+    "name": "Delta Medical Centre Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 20, Raod # 4, Dhanmondi R/A",
+    "phone": "01929-713057"
+  },
+  {
+    "name": "Green Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House #31, Road #6, Dhanmondi R/A",
+    "phone": "02-9612345"
+  },
+  {
+    "name": "Institute Of Child Health And Shishu Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mirpur",
+    "address": "6/2, Barabag, Section #2, Mirpur",
+    "phone": "02-48037559"
+  },
+  {
+    "name": "Islami Bank Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Outer Circular Road",
+    "address": "24/B, Outer Circular Road",
+    "phone": "1810000116"
+  },
+  {
+    "name": "Ad-Din Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Moghbazar",
+    "address": "Moghbazar",
+    "phone": "09612-345666"
+  },
+  {
+    "name": "Aichi Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Uttara",
+    "address": "House # 13, Eshakha Avenue Sector # 6, Uttara",
+    "phone": "02-44891001"
+  },
+  {
+    "name": "SIBL Foundation Hospital & Diagnostic Center",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Panthapath",
+    "address": "Fattah Plaza, 70 Green Rd",
+    "phone": "01991-150900"
+  },
+  {
+    "name": "BRB HOSPITAL LTD.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Panthapath",
+    "address": "77 panthapath",
+    "phone": "09610-010647"
+  },
+  {
+    "name": "Ahmed Medical Centre Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 71, Road # 15-A, (New), Dhanmondi C/A",
+    "phone": "01797-619959"
+  },
+  {
+    "name": "MH Samorita Hospital and Medical College",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Tejgaon",
+    "address": "117 Tejgaon, Love Rd",
+    "phone": "01723-298921"
+  },
+  {
+    "name": "Green Life Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Green Road",
+    "address": "MAK Khan Tower, Green Rd",
+    "phone": "29612345"
+  },
+  {
+    "name": "Al- Rajhi Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Farmgate",
+    "address": "12, Farmgate",
+    "phone": "01756-173765"
+  },
+  {
+    "name": "Islamia Arogya Sadan Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House #35, Road #1, Dhanmondi R/A",
+    "phone": "8612798, 9671912"
+  },
+  {
+    "name": "BIRDEM",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shahbagh",
+    "address": "122, Kazi Nazrul Islam Avenue, Shahbagh",
+    "phone": "02-41060483"
+  },
+  {
+    "name": "Z.H. Sikder Women’s College & Hospital (Pvt) Ltd",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "Monica Estate, (West side of Dhanmondi",
+    "phone": "01313-752222"
+  },
+  {
+    "name": "The Barakah General Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Razarbagh",
+    "address": "937, Outer Circular Road, Razarbagh",
+    "phone": "01720-045769"
+  },
+  {
+    "name": "Monowara General Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Golapbagh",
+    "address": "Golapbagh, Bishwroad",
+    "phone": "01713-143152"
+  },
+  {
+    "name": "Mirpur Holy Crescent Hospital (Pvt) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mirpur",
+    "address": "33, South Bishil, Mirpur-1",
+    "phone": "01913-821665"
+  },
+  {
+    "name": "Care Medical Center Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shantinagar",
+    "address": "41, Chamelibagh, Shantinagar",
+    "phone": "09677-223344"
+  },
+  {
+    "name": "Bangladesh Medical College Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 35, Road # 14/A, Dhanmondi",
+    "phone": "02-44812101"
+  },
+  {
+    "name": "Aysha Memorial Specialized Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mohakhali",
+    "address": "74/G, Arjatpara, Mohakhali",
+    "phone": "01841-480000"
+  },
+  {
+    "name": "Al Anaiet Adhunik Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 36, Road # 3, Dhanmondi-",
+    "phone": "8630741"
+  },
+  {
+    "name": "Al Jebel-E-Nur Heart Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 21, Road # 9/A (New), Dhanmondi",
+    "phone": "0811-7031"
+  },
+  {
+    "name": "Al-Ahsraf General Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Uttara",
+    "address": "House # 12 Road # 21,Sector # 4, Uttara-",
+    "phone": "8951975"
+  },
+  {
+    "name": "Al-Biruni Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shyamoli",
+    "address": "23/1, Khilzee Road, Shyamoli",
+    "phone": "01726-240489"
+  },
+  {
+    "name": "Al-Fateh Medical Sevices (Pvt) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Farmgate",
+    "address": "11, Farmgate over Bridge East Side",
+    "phone": "01675-385722"
+  },
+  {
+    "name": "Al-Madina General Hospital (Pvt.) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shamoli",
+    "address": "2/A, Golden Street, Ring Road, Shamoli",
+    "phone": "01819-691816"
+  },
+  {
+    "name": "Al-Manar Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Lalmatia",
+    "address": "5/4, Block-F, Lalmatia",
+    "phone": "02-58150197"
+  },
+  {
+    "name": "Al-Markazul Islami Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mohammadpur",
+    "address": "21/17, Babar Road, Mohammadpur",
+    "phone": "01995-559999"
+  },
+  {
+    "name": "Al-Mohite General Hospital & Diagnostic Centre",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shamoli",
+    "address": "House # 11, Road # 2, Shamoli",
+    "phone": "02-58150197"
+  },
+  {
+    "name": "Bangladesh Heart & Chest Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "Road # 27 (Old), 16 (New), House # 47, Dhanmondi",
+    "phone": "01792-141414"
+  },
+  {
+    "name": "Bangladesh Telemedicine Services Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "Comfort Tower, 167/B, Green Road, Dhanmondi",
+    "phone": "16263"
+  },
+  {
+    "name": "Bari-Ilizarov Orthopedic (Bio) Centre",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 77 (New) 831 (Old), Road # 9/A (New) 19 (Old), Dhanmondi R/A",
+    "phone": "01619-120309"
+  },
+  {
+    "name": "Bdm Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mohammedpur",
+    "address": "5/17, Humaund Road, Block # B, Mohammedpur",
+    "phone": "9134555"
+  },
+  {
+    "name": "BNSB Dhaka Eye Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mirpur",
+    "address": "Mirpur-1",
+    "phone": "02-9010831, 02-9034476"
+  },
+  {
+    "name": "Brain & Mind Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Farmgate",
+    "address": "149/A, Airport Road, Farmgate",
+    "phone": "02-58156315"
+  },
+  {
+    "name": "Brighton Hospital Ltd",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Hitirpool",
+    "address": "163, Sonargaon Road Hitirpool-",
+    "phone": "8626023"
+  },
+  {
+    "name": "Bumrungrad Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Banani",
+    "address": "House- 154, Road- 11, Block- E, Banani",
+    "phone": "01844 04 7060"
+  },
+  {
+    "name": "Central Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 2, Road # 5, Green Road, Dhanmondi",
+    "phone": "02-41060806"
+  },
+  {
+    "name": "Chandshi Medical Center",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Banani",
+    "address": "House # 9, Road # 27, Block # K, Banani",
+    "phone": "1918129245"
+  },
+  {
+    "name": "Christian Medical Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Baridhara",
+    "address": "6/3, Nadda, Baridhara (North)",
+    "phone": "02-9886298"
+  },
+  {
+    "name": "City Dental College & Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Malibagh",
+    "address": "1085/1, Malibagh, Chowdhurypara",
+    "phone": "01711-852750"
+  },
+  {
+    "name": "City Hospital Ltd",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Panthpath",
+    "address": "69/1/1, Panthpath",
+    "phone": "02-8143312"
+  },
+  {
+    "name": "Crescent Gastroliver & General Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House- 60, Road- 8/A, Dhanmondi R/A",
+    "phone": "8801926100100"
+  },
+  {
+    "name": "Crescent Hospital & Diagnostic Complex Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mohammadpur",
+    "address": "22/2, Babor Road, Mohammadpur",
+    "phone": "09666-710665"
+  },
+  {
+    "name": "Dhaka National Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House # 55/1, Road # 27 (Old) 16 (New), Dhanmondi R/A",
+    "phone": "02-47116331"
+  },
+  {
+    "name": "Dhaka Renal Centre & General Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Green Road",
+    "address": "5 Green Corner, Green Road",
+    "phone": "01849-428888"
+  },
+  {
+    "name": "Dhaka Shishu Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Sher-E-Bangla Nagar",
+    "address": "Sher-E-Bangla Nagar",
+    "phone": "02-55059051"
+  },
+  {
+    "name": "Dhanmondi Hospital (Pvt) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House #19/E, Green Road, Middle of Road #6&7, Dhanmondi",
+    "phone": "1711540246"
+  },
+  {
+    "name": "Diabetic Association Of Bangladesh",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Shahbagh",
+    "address": "122, Kazi Nazrul Islam Avenue, Shahbagh",
+    "phone": "02-9661551"
+  },
+  {
+    "name": "Diganta Anti Drug Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Chanduaon R/A",
+    "address": "House #353, Road #14, Block# B, Chanduaon R/A",
+    "phone": "031-671393"
+  },
+  {
+    "name": "Farabi General Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "Road #14 (New), House #8/3,Dhanmondi R/A",
+    "phone": "02-58156167, 01776117704"
+  },
+  {
+    "name": "Faud Al Khatib Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mirpur",
+    "address": "Almas Tower, 282/1, 1st Colony, Majar Road, Mirpur",
+    "phone": "01790-342233"
+  },
+  {
+    "name": "Federal Medical College Hospital Ltd",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Bangla Motor",
+    "address": "20, Link Road, Bangla Motor",
+    "phone": "02-8130093"
+  },
+  {
+    "name": "General Hospital Ltd",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House #60, Road #8/A,Dhanmondi, R/A",
+    "phone": "02-41060806"
+  },
+  {
+    "name": "General Medical Hospital (Pvt.) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Elephant Road",
+    "address": "103, Elephant Road-",
+    "phone": "861054"
+  },
+  {
+    "name": "Grain & Mind Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Farmgate",
+    "address": "149/A, Airport Road, Farmgate",
+    "phone": "01766-622273"
+  },
+  {
+    "name": "Greenland Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Uttara",
+    "address": "House #4, Road #4, Sector #7, Uttara Model Town",
+    "phone": "8912663"
+  },
+  {
+    "name": "Harun Eye Foundation & Green Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "Road #6, House #31, Dhanmondi R/A",
+    "phone": "8612412, 8619068"
+  },
+  {
+    "name": "Hasnabad Hospital (Pvt) Ltd",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Hasnabad",
+    "address": "South West Side of Buri Ganga Bridge, Hasnabad",
+    "phone": "7419977"
+  },
+  {
+    "name": "Health And Hope Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Panthopath",
+    "address": "152/1-H, Green Road, Panthopath",
+    "phone": "9145786"
+  },
+  {
+    "name": "Hyfia General Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Adabar",
+    "address": "1/A, Adabar, Ring Road, Shamoli",
+    "phone": "N/A"
+  },
+  {
+    "name": "International Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Moghbazar",
+    "address": "6, Eskaton Garden, Moghbazar",
+    "phone": "9333739"
+  },
+  {
+    "name": "Islamia Eye Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Farmgate",
+    "address": "Farmgate",
+    "phone": "8112856, 319315, 9119315"
+  },
+  {
+    "name": "Khaliqun Nessa General Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Becharam Dewri",
+    "address": "61, Becharam Dewri",
+    "phone": "7312449, 7313583"
+  },
+  {
+    "name": "Medi Prime Orthopaedic Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mohammadpur",
+    "address": "1/9, Humayan Road, College Gate, Mohammadpur",
+    "phone": "9139226"
+  },
+  {
+    "name": "Medistine Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Moghbazar",
+    "address": "218, Outer Circular Road, Moghbazar",
+    "phone": "9345003"
+  },
+  {
+    "name": "Meditech General Hospital (Pvt) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Nikunja",
+    "address": "House #21, Road #2, Nikunja #2",
+    "phone": "8918345"
+  },
+  {
+    "name": "Meriland Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Uttara",
+    "address": "Sector #1, Road #13, House #4, Uttara",
+    "phone": "8919481"
+  },
+  {
+    "name": "Mirpur General Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Mirpur",
+    "address": "House #35, Road #1, Sector #10, Mirpur",
+    "phone": "8015444"
+  },
+  {
+    "name": "Mother Care Hospital (Pvt.) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Lalmatia",
+    "address": "3/10, Lalmatia, Block- A, Mirpur Road",
+    "phone": "9119355"
+  },
+  {
+    "name": "Mukti Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Gulshan",
+    "address": "Hosue #2, Road #2, Gulshan #2",
+    "phone": "8827147, 606728"
+  },
+  {
+    "name": "Munsor Ali Medical College",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Uttara",
+    "address": "Sector #11, Road #19, Plot #1/C, Chowrasta, Uttara",
+    "phone": "8917978"
+  },
+  {
+    "name": "National Medical College & Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Johnson Road",
+    "address": "53/1, Johnson Road",
+    "phone": "7117300"
+  },
+  {
+    "name": "Neurology Foundation & Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Kalabagan",
+    "address": "3/1, Lake Circus, Kalabagan",
+    "phone": "8114846"
+  },
+  {
+    "name": "Padma General Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Sonargaon Road",
+    "address": "290, Sonargaon Road",
+    "phone": "9661528, 9662502"
+  },
+  {
+    "name": "Royel Hospital (Pvt.) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Eskaton",
+    "address": "31, Eskaton Road",
+    "phone": "8313096"
+  },
+  {
+    "name": "The Kidney Hospital And Dialysis Centre",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Kalabagan",
+    "address": "161/A, Kalabagan",
+    "phone": "8122019, 8123056"
+  },
+  {
+    "name": "The Specialized Hospital (Pvt) Ltd.",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Dhanmondi",
+    "address": "House #40, Road #10/A,Dhanmondi R/A",
+    "phone": "9118523, 8114230, 8110263"
+  },
+  {
+    "name": "Uttara Central Hospital",
+    "division": "Dhaka",
+    "district": "Dhaka",
+    "upazilla": "Uttara",
+    "address": "House #1, Road #7, Sector #1, Uttara Model Town",
+    "phone": "8911551, 8918778"
+  },
+  {
+    "name": "ডায়াবেটিক হাসপাতাল (Diabetic Hospital)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "92162350 (Contact: Senior Medical Officer)"
+  },
+  {
+    "name": "সোনিয়া নার্সিং হোম (Sonia Nursing Home)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1716443592"
+  },
+  {
+    "name": "সেবা ক্লিনিক (Sheba Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "০৯২১৫৪৬৯৬, ০১৭১৩০২০৮০২"
+  },
+  {
+    "name": "আমিনা ক্লিনিক (Amina Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1713539434"
+  },
+  {
+    "name": "মেডিকো হসপিটাল (Medico Hospital)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "০৯২১-৬১৮৩৩, ০১৭১২৭০১৫৭০"
+  },
+  {
+    "name": "মুক্তা স্পেশালাইজড (Mukta Specialized)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1720539966"
+  },
+  {
+    "name": "রাজধানী নার্সিং হোম (Rajdhani Nursing Home)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "০৯২১৫৩১৫০, ০১৭১১১৫৫৬৪৪"
+  },
+  {
+    "name": "ডক্টরস ক্লিনিক প্রা: লি: (Doctors Clinic Pvt. Ltd.)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "০৯২১৬৫১৫০, ০১৭১২৯৮০৪২২"
+  },
+  {
+    "name": "ফেয়ার ক্লিনিক এন্ড নার্সিং হোম (Fair Clinic & Nursing Home)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1716108842"
+  },
+  {
+    "name": "আয়শা খানম মেমোরিয়াল হাসপাতাল (Aysha Khanam Memorial Hospital)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "০৯২১৬৪৭৯৭, ০১৭১৩৫৮৬৬৭৪, ০১৭১১১৬৩৬২৫"
+  },
+  {
+    "name": "শামছুল হক মেমোরিয়াল হাসপাতাল (Shamsul Hoque Memorial Hospital)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1819132643"
+  },
+  {
+    "name": "মেহেরুন্নেসা ডায়াগনষ্টিক (ল্যাব) (Meherunnessa Diagnostic (Lab))",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1712286630"
+  },
+  {
+    "name": "খান ডায়াগনষ্টিক সেন্টার (Khan Diagnostic Center)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1712578102"
+  },
+  {
+    "name": "আল-মদিনা ক্লিনিক (Al-Madina Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "171180362"
+  },
+  {
+    "name": "মেডিকো ডায়াগনষ্টিক সেন্টার (Medico Diagnostic Center)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1720252987"
+  },
+  {
+    "name": "বিকল্প ক্লিনিক (Bikalpo Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1716219851"
+  },
+  {
+    "name": "এশিয়া ক্লিনিক (Asia Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1922601692"
+  },
+  {
+    "name": "মেডিকেয়ার ক্লিনিক (Medicare Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1715374312"
+  },
+  {
+    "name": "নিউ জনতা নার্সিং হোম (New Janata Nursing Home)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1819179198"
+  },
+  {
+    "name": "জননী ক্লিনিক (Janani Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1721265576"
+  },
+  {
+    "name": "ঢাকা ক্লিনিক (Dhaka Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "17114776095"
+  },
+  {
+    "name": "আফিয়া আই সেন্টার (Afia Eye Center)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "০৯২১৬৪৩২৩, ০১৮২০৫৫৭৭৫৯"
+  },
+  {
+    "name": "ফাতেমা ক্লিনিক (Fatema Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1729118665"
+  },
+  {
+    "name": "মুক্তা ক্লিনিক (Mukta Clinic)",
+    "division": "Dhaka",
+    "district": "Tangail",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "1711576121"
+  },
+  {
+    "name": "Gazipur Sadar Hospital",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Sadar",
+    "address": "Rathkhula Sadar Hospital Road",
+    "phone": "02-9261281"
+  },
+  {
+    "name": "International Medical College Hospital",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Medical College Rd, Tongi 1711",
+    "phone": "02-9814550"
+  },
+  {
+    "name": "Gazipur Metropolitan Hospital & Diagnostic Centre",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Joydevpur",
+    "address": "Chandana Chowrasta, Joydevpur - Tangail Hwy",
+    "phone": "N/A"
+  },
+  {
+    "name": "Royal Gazipur Hospital",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "N/A"
+  },
+  {
+    "name": "Sheikh Fazilatunnessa Mujib Memorial KPJ Specialized Hospital And Nursing College",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Kasimpur",
+    "address": "C/12, Nabinagar - Chandra Road, Tetuibari, Kasimpur",
+    "phone": "02-44077030"
+  },
+  {
+    "name": "Tairunnessa Memorial Medical College",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Sadar",
+    "address": "Dhaka - Mymensingh Hwy",
+    "phone": "01914-213134"
+  },
+  {
+    "name": "Tanha Health Care Hospital",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Kaliakoir",
+    "address": "DHAKA TANGAIL HIGHWAY, SHAFIPUR BAZAR, kaliakoir",
+    "phone": "01722-450094, 01972-450094"
+  },
+  {
+    "name": "Medipath Hospital and Diagnostic Center",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "01711-695379"
+  },
+  {
+    "name": "Abeda Memorial Hospital",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Tongi - Ghorashal Hwy, Tongi",
+    "phone": "01972-233215"
+  },
+  {
+    "name": "Bangladesh Institute of Health Science Hospital, Tongi",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Ashraf Setu Shopping Complex, Dhaka - Mymensingh Hwy, Tongi",
+    "phone": "01712-238035"
+  },
+  {
+    "name": "Shaheed Ahsan Ullah Master General Hospital, Tongi",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Tongi",
+    "phone": "01730-324821"
+  },
+  {
+    "name": "Gazipur Eye Hospital Dip Jhele Jai",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "N/A"
+  },
+  {
+    "name": "Silmun Catheries General Hospital",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Tongi - Kaliganj - Gorashal - Pachdona Rd, Tongi",
+    "phone": "N/A"
+  },
+  {
+    "name": "Green Hospital",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Joydebpur",
+    "address": "Markaz Rd, East Side Of Joydebpur Bazar, Joydebpur",
+    "phone": "01911-307585"
+  },
+  {
+    "name": "Gazipur Maternal Health Clinic",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Road, amtoli, Tongi",
+    "phone": "N/A"
+  },
+  {
+    "name": "Adhunik Dental Home",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "R.A. Plaza, Ground Floor Of New Life Hospital, Station Road, Thana Gate, Tongi",
+    "phone": "01721-599980"
+  },
+  {
+    "name": "Dhaka Imperial Hospital Physiotherapy centre",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Tongi, Hosen Market, Tongi",
+    "phone": "01831-022865"
+  },
+  {
+    "name": "Maa Dental Home",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Ground Floor Of Abeda Hospital, Station Road, Medical Gate, Tongi",
+    "phone": "01953-581758"
+  },
+  {
+    "name": "Gazi Dental Clinic",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Tongi",
+    "address": "Station Road, Medical Gate, Seba Hospital Er Nich Tala, Tongi",
+    "phone": "01712-693425"
+  },
+  {
+    "name": "A. H. Memorial Hospital Ltd",
+    "division": "Dhaka",
+    "district": "Gazipur",
+    "upazilla": "Kaliganj",
+    "address": "Kaliganj Upazila",
+    "phone": "01755-554431"
+  },
+  {
+    "name": "Medinova Medical Services, Narayanganj",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "145, Bangabandhu Road, Chashara",
+    "phone": "01913119989, 01842119989"
+  },
+  {
+    "name": "Popular Diagnostic Center",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Chashara",
+    "address": "231/4 B.B Road, Chashara",
+    "phone": "9613787804"
+  },
+  {
+    "name": "Pro Active Medical College & Hospital Ltd",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Siddirganj",
+    "address": "Signboard mor, E-197/7, Mizmizi, Shahebpara, Siddirganj",
+    "phone": "N/A"
+  },
+  {
+    "name": "Modern Diagnostic Center, Narayanganj",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Chashara",
+    "address": "207, Bangabandhu Road, Chashara",
+    "phone": "01890912112, 01944422297"
+  },
+  {
+    "name": "Narayanganj General (Victoria) Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Victoria Hospital, Bangabandhu Sarak",
+    "phone": "N/A"
+  },
+  {
+    "name": "Rezia General Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Bangabandhu Sarak",
+    "phone": "N/A"
+  },
+  {
+    "name": "Mukti General Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "K C Nag Rd",
+    "phone": "N/A"
+  },
+  {
+    "name": "Mother & Child Helth Care Institute",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Hospital Rd",
+    "phone": "N/A"
+  },
+  {
+    "name": "Shahjalal (R) Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Dhaka - Narayanganj Rd",
+    "phone": "N/A"
+  },
+  {
+    "name": "New Popular General Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Fatullah",
+    "address": "3rd Floor, Hazi Muslim Market, D.N.Road, Pagla Bazar, Fatullah",
+    "phone": "01943-424101"
+  },
+  {
+    "name": "New Doctors Diagnostic Lab",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Fatullah",
+    "address": "Kazi Khorshed Plaza Hwy Fatulla",
+    "phone": "N/A"
+  },
+  {
+    "name": "Life General Hospital & Diagnostic Center",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Zakir Super Market, K C Nag Rd",
+    "phone": "02-7610500"
+  },
+  {
+    "name": "Labaid Multi Speciality Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Dhaka - Narayanganj Rd",
+    "phone": "01766-660827"
+  },
+  {
+    "name": "Narayanganj General Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Hospital Road",
+    "phone": "N/A"
+  },
+  {
+    "name": "City Life Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Sufiya Plaza, 124 Bangabandhu Sarak",
+    "phone": "N/A"
+  },
+  {
+    "name": "Taj Medicare Specialized Physiotherapy Acupuncture & Rehabilitation Center",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Siddhirgonj",
+    "address": "Rupali Super Market(3rd flour), Chittagong Road, Siddhirgonj",
+    "phone": "01925-963909"
+  },
+  {
+    "name": "Family Lab Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "1 Samad Banu Tower, Signboard",
+    "phone": "01848-370182"
+  },
+  {
+    "name": "East View Hospital & Lab",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Siddhirgonj",
+    "address": "Sanarpar, Siddhirgonj",
+    "phone": "01717-099249"
+  },
+  {
+    "name": "Sahitunnessa Lions Eye Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "J S supermarket,61/1 B .B Road",
+    "phone": "8807642338"
+  },
+  {
+    "name": "Islam Heart Centre",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Chashara",
+    "address": "Rajuk plot no 39 Balurmath Chashara",
+    "phone": "01922 110728"
+  },
+  {
+    "name": "US-Bangla Medical College Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Rupgonj",
+    "address": "Tarabo, Rupgonj",
+    "phone": "01787-694276"
+  },
+  {
+    "name": "Prime General Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Chashara",
+    "address": "53/1 Nawab Salimullah Road,Chashara",
+    "phone": "01970-235005"
+  },
+  {
+    "name": "Care General Hospital Ltd.",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Chashara",
+    "address": "208, B.B. Road,Chashara",
+    "phone": "01779-210530"
+  },
+  {
+    "name": "Lab Aid Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "N/A",
+    "phone": "N/A"
+  },
+  {
+    "name": "Shahin General Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Khanpur Main Rd",
+    "phone": "01959-249553"
+  },
+  {
+    "name": "Medi-Hope General Hospital & Diagnostic",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Narayanganj Hwy",
+    "phone": "01943-029194"
+  },
+  {
+    "name": "Selina Memorial Hospital",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "117/1, Don Chamber Rd",
+    "phone": "01718-077891"
+  },
+  {
+    "name": "Green Life Diagnostic & Consultation Center",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "old 169, new 234 Bangabandhu Sarak",
+    "phone": "01718-014914"
+  },
+  {
+    "name": "Mediplus Diagnostic Center",
+    "division": "Dhaka",
+    "district": "Narayanganj",
+    "upazilla": "Sadar",
+    "address": "Khanpur Main Rd",
+    "phone": "N/A"
+  },
+  {
+    "name": "M Abdur Rahim Medical College Hospital",
+    "division": "Rangpur",
+    "district": "Dinajpur",
+    "upazilla": null,
+    "address": null,
+    "phone": "8801793941071, 053152320"
+  },
+  {
+    "name": "সিলেট এম.এ.জি ওসমানী মেডিকেল কলেজ হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "মেডিকেল রোড, কাজলশাহ, সিলেট - ৩১০০",
+    "phone": "+৮৮০৮২১৭১৭০৫১, +৮৮০৮২১৭১৭০৫৫"
+  },
+  {
+    "name": "শহীদ শামসুদ্দিন আহমদ হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "মেডিকেল কলেজ রোড, সিলেট",
+    "phone": "০১৭১৯-৯৯৯৯৯৮"
+  },
+  {
+    "name": "জালালাবাদ রাগিব-রাবেয়া মেডিকেল কলেজ হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "দক্ষিণ সুরমা",
+    "address": "পাঠানটুলা, সিলেট (সম্ভাব্য)",
+    "phone": "+৮৮০৮২১৭১৭৭০০২"
+  },
+  {
+    "name": "নর্থ ইস্ট মেডিকেল কলেজ ও হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "দক্ষিণ সুরমা",
+    "address": "দক্ষিণ সুরমা, সিলেট",
+    "phone": "+৮৮০১৭১৫৯৪৪৭৩৩, +৮৮০৮২১৭২৮৫৮৭"
+  },
+  {
+    "name": "ইবনে সিনা হাসপাতাল সিলেট লি:",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "সুবহানী ঘাট, সিলেট",
+    "phone": "০১৯৩৮-৮৬৫২৫৭, +৮৮০৯৬৩৬৩০০৩০০"
+  },
+  {
+    "name": "আল হারামাইন হাসপাতাল প্রাইভেট লিমিটেড",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "কাজী টাওয়ার, সুবহানী ঘাট, সিলেট",
+    "phone": "০৮২১-৭২৯৯৮১, +৮৮০৮২১৭১৪১২৩"
+  },
+  {
+    "name": "মাউন্ট এডোরা হাসপাতাল (আখালিয়া)",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "সিলেট-সুনামগঞ্জ রোড, আখালিয়া, সিলেট",
+    "phone": "০৯৬১০-৮৪৮৪৮৪, +৮৮০৯৬৭৮২২৫৫৬৬"
+  },
+  {
+    "name": "মাউন্ট এডোরা হাসপাতাল (নয়াসড়ক)",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "নায়াসড়ক রোড, সিলেট",
+    "phone": "০৯৬১০-৮৫৬৫"
+  },
+  {
+    "name": "পার্কভিউ মেডিকেল কলেজ ও হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "এন২০৬, সিলেট",
+    "phone": "০১৮৪৯-৮৬৮৯৫৮৯"
+  },
+  {
+    "name": "ওএসিস হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "সুবহানীঘাট, বিশ্ব রোড, সিলেট",
+    "phone": "০১৭৬৩-৯৯০০৫৫"
+  },
+  {
+    "name": "পপুলার মেডিকেল সেন্টার ও হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "বিশ্ব রোড, মিরাবাজার-সুবহানীঘাট রোড, সিলেট",
+    "phone": "০১৭৭৩-০৩৫১৩৮"
+  },
+  {
+    "name": "কুইন'স হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "সিলেট ৩১০০০",
+    "phone": "০১৭৩০-৭০০৮৯৮"
+  },
+  {
+    "name": "সিলেট উইমেন্স মেডিকেল কলেজ হসপিটাল",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": "ভিআইপি রোড, সিলেট",
+    "phone": null
+  },
+  {
+    "name": "ন্যাশনাল হার্ট ফাউন্ডেশন, সিলেট",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "সিলেট সদর",
+    "address": null,
+    "phone": null
+  },
+  {
+    "name": "র‍াবেয়া বানু জেনারেল হাসপাতাল প্যাথলজি",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "বিশ্বনাথ",
+    "address": null,
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, বিশ্বনাথ",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "বিশ্বনাথ",
+    "address": "বিশ্বনাথ",
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, জকিগঞ্জ",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "জকিগঞ্জ",
+    "address": "জকিগঞ্জ",
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, গোলাপগঞ্জ",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "গোলাপগঞ্জ",
+    "address": "গোলাপগঞ্জ",
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, কোম্পানীগঞ্জ",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "কোম্পানীগঞ্জ",
+    "address": "কোম্পানীগঞ্জ",
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, গোয়াইনঘাট",
+    "division": "সিলেট",
+    "district": "সিলেট",
+    "upazilla": "গোয়াইনঘাট",
+    "address": "গোয়াইনঘাট",
+    "phone": null
+  },
+  {
+    "name": "সুনামগঞ্জ সদর হাসপাতাল",
+    "division": "সিলেট",
+    "district": "সুনামগঞ্জ",
+    "upazilla": "সুনামগঞ্জ সদর",
+    "address": null,
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, দোয়ারাবাজার",
+    "division": "সিলেট",
+    "district": "সুনামগঞ্জ",
+    "upazilla": "দোয়ারাবাজার",
+    "address": "দোয়ারাবাজার",
+    "phone": null
+  },
+  {
+    "name": "মৌলভীবাজার সদর হাসপাতাল",
+    "division": "সিলেট",
+    "district": "মৌলভীবাজার",
+    "upazilla": "মৌলভীবাজার সদর",
+    "address": null,
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, বাহুবল",
+    "division": "সিলেট",
+    "district": "হবিগঞ্জ",
+    "upazilla": "বাহুবল",
+    "address": "বাহুবল",
+    "phone": null
+  },
+  {
+    "name": "উপজেলা স্বাস্থ্য কমপ্লেক্স, আজমিরিগঞ্জ",
+    "division": "সিলেট",
+    "district": "হবিগঞ্জ",
+    "upazilla": "আজমিরিগঞ্জ",
+    "address": "আজমিরিগঞ্জ",
+    "phone": null
+  },
+  {
+    "name": "রাজশাহী মেডিকেল কলেজ হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "মেডিকেল কলেজ রোড, রাজশাহী-৬০০০০",
+    "phone": "০৭২১-৭৭৫৬০১-০৯ (সাধারণ), হটলাইন: ১০৬৫০"
+  },
+  {
+    "name": "শহীদ জিয়াউর রহমান মেডিকেল কলেজ হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "বগুড়া",
+    "upazilla": "বগুড়া সদর",
+    "address": "বারপুর, বগুড়া",
+    "phone": "০৫১-৬৫৫৯৬, ৯৭, ৯৮"
+  },
+  {
+    "name": "২৫০ শয্যা বিশিষ্ট মোহাম্মদ আলী হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "বগুড়া",
+    "upazilla": "বগুড়া সদর",
+    "address": "মোহাম্মদ আলী রোড, বগুড়া",
+    "phone": "০৫১-৬৫৭২৮"
+  },
+  {
+    "name": "নাটোর সদর হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "নাটোর",
+    "upazilla": "নাটোর সদর",
+    "address": "নাটোর সদর",
+    "phone": "০৭৭১-৬২৬৪৪"
+  },
+  {
+    "name": "নওগাঁ সদর হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "নওগাঁ",
+    "upazilla": "নওগাঁ সদর",
+    "address": "হাসপাতাল রোড, নওগাঁ সদর",
+    "phone": "০৭৪২১-৬২২১৭"
+  },
+  {
+    "name": "চাঁপাইনবাবগঞ্জ সদর হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "চাঁপাইনবাবগঞ্জ",
+    "upazilla": "চাঁপাইনবাবগঞ্জ সদর",
+    "address": "জেলা সদর, চাঁপাইনবাবগঞ্জ",
+    "phone": "০৭৮১-৫২১৭৬"
+  },
+  {
+    "name": "পাবনা জেনারেল হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "পাবনা",
+    "upazilla": "পাবনা সদর",
+    "address": "হাসপাতাল রোড, পাবনা সদর",
+    "phone": "০৭৩১-৬২২০৯"
+  },
+  {
+    "name": "সিরাজগঞ্জ ২৫০ শয্যা বিশিষ্ট হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "সিরাজগঞ্জ",
+    "upazilla": "সিরাজগঞ্জ সদর",
+    "address": "সিরাজগঞ্জ সদর",
+    "phone": "০৭৫১-৬৩৪৮৬"
+  },
+  {
+    "name": "জয়পুরহাট জেলা আধুনিক হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "জয়পুরহাট",
+    "upazilla": "জয়পুরহাট সদর",
+    "address": "জেলা সদর, জয়পুরহাট",
+    "phone": "০৫৭১-৬২১১৮"
+  },
+  {
+    "name": "ইসলামী ব্যাংক মেডিকেল কলেজ হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "নওদাপাড়া এয়ারপোর্ট রোড, সপুরা, রাজশাহী",
+    "phone": "০৯৬০১৫৬১০০০ (হটলাইন)"
+  },
+  {
+    "name": "বারিন্দ মেডিকেল কলেজ ও হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "মিন্টো চত্বর, মেডিকেল কলেজ রোড, রাজপাড়া, রাজশাহী",
+    "phone": "০৭২১-৭৬০০৪১ (ফোন)"
+  },
+  {
+    "name": "কমফোর্ট হসপিটাল রাজশাহী",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "হাউজ # ৩৩৫, ৩৩6 শের শাহ রোড, রাজশাহী ৬০০০০",
+    "phone": "০৭২১-৭৬১৫৮০ (ফোন)"
+  },
+  {
+    "name": "রাজশাহী রয়্যাল হাসপাতাল প্রাইভেট লিমিটেড",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "কোর্ট স্টেশন রোড, লক্ষ্মীপুর মোড়, রাজপাড়া, রাজশাহী",
+    "phone": "০১ ৭৬২৬৮৫ ০৯০"
+  },
+  {
+    "name": "এলএবিএইড ডায়াগনস্টিক, রাজশাহী",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "হাউজ # ৬২০, শেরশাহ রোড, লক্ষ্মীপুর, রাজশাহী -৬০০০",
+    "phone": "১০৬০৬ (হটলাইন), ০১৭৬৬৬৬১১৪৪"
+  },
+  {
+    "name": "ইবনে সিনা ডায়াগনস্টিক ও কনসালটেশন সেন্টার",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "লক্ষ্মীপুর মোড়, রাজশাহী",
+    "phone": "১০৬১৫ (হটলাইন)"
+  },
+  {
+    "name": "বাংলাদেশ আই হসপিটাল (চক্ষু হাসপাতাল)",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "আই ১০ টাওয়ার, এয়ারপোর্ট রোড, আম চত্বর, রাজশাহী-৬২০৩",
+    "phone": "০৯৬৪৩১২৩১২৩"
+  },
+  {
+    "name": "ক্রিশ্চিয়ান মিশন হাসপাতাল, রাজশাহী (CMHR)",
+    "division": "Rajshahi",
+    "district": "রাজশাহী",
+    "upazilla": "রাজশাহী সদর",
+    "address": "কাজীহাটা, রাজশাহী",
+    "phone": "০৭২১-৭৭৪০২৫ (ফোন)"
+  },
+  {
+    "name": "টিএমএসএস মেডিকেল কলেজ ও রফাতউল্লাহ কমিউনিটি হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "বগুড়া",
+    "upazilla": "গোকুল",
+    "address": "ঠেঙ্গামারা, গোকুল, বগুড়া",
+    "phone": "০৫১-৬৫৫৯২"
+  },
+  {
+    "name": "হেলথ সিটি স্পেশালাইজড হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "বগুড়া",
+    "upazilla": "বগুড়া সদর",
+    "address": "শেরপুর রোড, বগুড়া",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "গাক চক্ষু হাসপাতাল (GUK Eye Hospital)",
+    "division": "Rajshahi",
+    "district": "বগুড়া",
+    "upazilla": "বগুড়া সদর",
+    "address": "বনানী, বগুড়া",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "রেইনবো কমিউনিটি হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "বগুড়া",
+    "upazilla": "বগুড়া সদর",
+    "address": "বগুড়া সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "ডক্টর'স ক্লিনিক",
+    "division": "Rajshahi",
+    "district": "বগুড়া",
+    "upazilla": "বগুড়া সদর",
+    "address": "গোহাইল রোড, সূত্রাপুর, বগুড়া",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "ইসলামী ব্যাংক হাসপাতাল, নওগাঁ",
+    "division": "Rajshahi",
+    "district": "নওগাঁ",
+    "upazilla": "নওগাঁ সদর",
+    "address": "চকএনায়েত, নওগাঁ সদর",
+    "phone": "০৯৬০১০২২০২৫ (হটলাইন)"
+  },
+  {
+    "name": "গ্রীণ লাইফ হসপিটাল এন্ড ডায়াগনস্টিক",
+    "division": "Rajshahi",
+    "district": "নওগাঁ",
+    "upazilla": "নওগাঁ সদর",
+    "address": "দয়ালের মোড়, নওগাঁ",
+    "phone": "০১৭২৮-৮২৭৯৬০"
+  },
+  {
+    "name": "পিয়ারলেস ডায়াগনস্টিক এন্ড হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "নওগাঁ",
+    "upazilla": "নওগাঁ সদর",
+    "address": "দয়ালের মোড়, নওগাঁ",
+    "phone": "০১৭৬২-৬৯৩৪০১"
+  },
+  {
+    "name": "উত্তরা ক্লিনিক",
+    "division": "Rajshahi",
+    "district": "নওগাঁ",
+    "upazilla": "নওগাঁ সদর",
+    "address": "রুবির মোড়, নওগাঁ",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "দেশ মেডিকেল সেন্টার",
+    "division": "Rajshahi",
+    "district": "নাটোর",
+    "upazilla": "নাটোর সদর",
+    "address": "নাটোর সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "আস্থা ডায়াগনস্টিক অ্যান্ড হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "নাটোর",
+    "upazilla": "নাটোর সদর",
+    "address": "নাটোর সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "মজুমদার ক্লিনিক",
+    "division": "Rajshahi",
+    "district": "নাটোর",
+    "upazilla": "নাটোর সদর",
+    "address": "নাটোর সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "শিমলা জেনারেল হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "পাবনা",
+    "upazilla": "পাবনা সদর",
+    "address": "পাবনা সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "পাবনা হেলথ কেয়ার",
+    "division": "Rajshahi",
+    "district": "পাবনা",
+    "upazilla": "পাবনা সদর",
+    "address": "পাবনা সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "শেফা জেনারেল হাসপাতাল",
+    "division": "Rajshahi",
+    "district": "সিরাজগঞ্জ",
+    "upazilla": "সিরাজগঞ্জ সদর",
+    "address": "সিরাজগঞ্জ সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "সৈয়দ মনসুর আলী মেডিকেল কলেজ হাসপাতাল (প্রাইভেট মেডিকেল)",
+    "division": "Rajshahi",
+    "district": "সিরাজগঞ্জ",
+    "upazilla": "সিরাজগঞ্জ সদর",
+    "address": "সিরাজগঞ্জ সদর",
+    "phone": "(নম্বরটি পরিবর্তনশীল, অনুসন্ধানের প্রয়োজন)"
+  },
+  {
+    "name": "শের-ই-বাংলা মেডিকেল কলেজ ও হাসপাতাল (সরকারি)",
+    "division": "Barisal",
+    "district": "বরিশাল",
+    "upazilla": "বরিশাল সদর",
+    "address": "ব্যান্ড রোড, বরিশাল ৮২০০০",
+    "phone": "০১৭৪১-১১৩০৬৪ (সেক্রেটারি)"
+  },
+  {
+    "name": "বরিশাল জেনারেল হাসপাতাল (সরকারি/সদর)",
+    "division": "Barisal",
+    "district": "বরিশাল",
+    "upazilla": "বরিশাল সদর",
+    "address": "হাসপাতাল রোড, বরিশাল ৮২০০০",
+    "phone": "০১৭৩০-৩২৪৭৬০"
+  },
+  {
+    "name": "ইসলামী ব্যাংক হাসপাতাল, বরিশাল (বেসরকারি)",
+    "division": "Barisal",
+    "district": "বরিশাল",
+    "upazilla": "বরিশাল সদর",
+    "address": "বরিশাল সদর",
+    "phone": "০১৭৯৭-৩৩৩৩১০"
+  },
+  {
+    "name": "রাহাত আনোয়ার হাসপাতাল (বেসরকারি)",
+    "division": "Barisal",
+    "district": "বরিশাল",
+    "upazilla": "বরিশাল সদর",
+    "address": "ব্যান্ড রোড, বরিশাল ৮২০০০",
+    "phone": "০১৭৪৯-৭৮৯০৫২"
+  },
+  {
+    "name": "ল্যাবএইড ডায়াগনস্টিক, বরিশাল (বেসরকারি)",
+    "division": "Barisal",
+    "district": "বরিশাল",
+    "upazilla": "বরিশাল সদর",
+    "address": "কে জাহান সেন্টার, সদর রোড, বরিশাল ৮২০০০",
+    "phone": "০১৭৬৬-৬৬৩৩ ০৫"
+  },
+  {
+    "name": "পটুয়াখালী মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "Barisal",
+    "district": "পটুয়াখালী",
+    "upazilla": "পটুয়াখালী সদর",
+    "address": "পটুয়াখালী সদর",
+    "phone": "০১৭৩০-৩২৪৭৫২"
+  },
+  {
+    "name": "পটুয়াখালী সদর হাসপাতাল (সরকারি)",
+    "division": "Barisal",
+    "district": "পটুয়াখালী",
+    "upazilla": "পটুয়াখালী সদর",
+    "address": "পটুয়াখালী সদর",
+    "phone": "(অনুসন্ধান প্রয়োজন)"
+  },
+  {
+    "name": "পটুয়াখালী ইসলামিয়া হাসপাতাল (বেসরকারি)",
+    "division": "Barisal",
+    "district": "পটুয়াখালী",
+    "upazilla": "পটুয়াখালী সদর",
+    "address": "পটুয়াখালী সদর",
+    "phone": "০১৭৫২-৯৯৬৬৫৭"
+  },
+  {
+    "name": "ভোলা সদর হাসপাতাল (সরকারি)",
+    "division": "Barisal",
+    "district": "ভোলা",
+    "upazilla": "ভোলা সদর",
+    "address": "ভোলা সদর",
+    "phone": "০৪৩১-৬২৩৫৯"
+  },
+  {
+    "name": "ভোলা ডায়াবেটিক হাসপাতাল (বেসরকারি)",
+    "division": "Barisal",
+    "district": "ভোলা",
+    "upazilla": "ভোলা সদর",
+    "address": "ভোলা সদর",
+    "phone": "(অনুসন্ধান প্রয়োজন)"
+  },
+  {
+    "name": "বরগুনা সদর হাসপাতাল (সরকারি)",
+    "division": "Barisal",
+    "district": "বরগুনা",
+    "upazilla": "বরগুনা সদর",
+    "address": "বরগুনা সদর",
+    "phone": "০৪৪৭৮-৬২২০৯"
+  },
+  {
+    "name": "বরগুনা ডক্টরস ক্লিনিক ও ডায়াগনস্টিক সেন্টার (বেসরকারি)",
+    "division": "Barisal",
+    "district": "বরগুনা",
+    "upazilla": "বরগুনা সদর",
+    "address": "বরগুনা সদর",
+    "phone": "০১৭০৭-২৭৮৪৫৯"
+  },
+  {
+    "name": "ঝালকাঠি সদর হাসপাতাল (সরকারি)",
+    "division": "Barisal",
+    "district": "ঝালকাঠি",
+    "upazilla": "ঝালকাঠি সদর",
+    "address": "ঝালকাঠি সদর",
+    "phone": "০৪৩১-৬৩৪২১"
+  },
+  {
+    "name": "ঝালকাঠি জেনারেল হাসপাতাল ও ডায়াগনস্টিক সেন্টার (বেসরকারি)",
+    "division": "Barisal",
+    "district": "ঝালকাঠি",
+    "upazilla": "ঝালকাঠি সদর",
+    "address": "ঝালকাঠি সদর",
+    "phone": "০১৭৩০-৯২৬৮৭২"
+  },
+  {
+    "name": "পিরোজপুর সদর হাসপাতাল (সরকারি)",
+    "division": "Barisal",
+    "district": "পিরোজপুর",
+    "upazilla": "পিরোজপুর সদর",
+    "address": "পিরোজপুর সদর",
+    "phone": "০৪৪১-৬২২০৬"
+  },
+  {
+    "name": "বিক্রমপুর হাসপাতাল ও ডায়াগনস্টিক সেন্টার (বেসরকারি)",
+    "division": "Barisal",
+    "district": "পিরোজপুর",
+    "upazilla": "পিরোজপুর সদর",
+    "address": "পিরোজপুর সদর",
+    "phone": "০১৭২০-০৬৬৯০৭"
+  },
+  {
+    "name": "চট্টগ্রাম মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "upazilla": "চট্টগ্রাম সদর",
+    "address": "কে.বি ফজলুল কাদের রোড, চট্টগ্রাম",
+    "phone": "০৩১৬-২১৫৯৭, ০৩১৬১-৬৭৮৬"
+  },
+  {
+    "name": "এভারকেয়ার হসপিটাল চট্টগ্রাম (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "upazilla": "চট্টগ্রাম সদর",
+    "address": "অক্সিজেন - কুয়াইশ রোড, সিডিএ এলাকা",
+    "phone": "০৯৬১২-৩১০৬৬৩ (অ্যাপয়েন্টমেন্ট)"
+  },
+  {
+    "name": "ন্যাশনাল হাসপাতাল চট্টগ্রাম (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "upazilla": "চট্টগ্রাম সদর",
+    "address": "১৪/১৫ মেহেদিবাগ, চট্টগ্রাম",
+    "phone": "০৯৬৪৮-২৫০২৫০"
+  },
+  {
+    "name": "ইসলামী ব্যাংক হাসপাতাল, আগ্রাবাদ (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "upazilla": "চট্টগ্রাম সদর",
+    "address": "৩, শেখ মুজিব রোড, আগ্রাবাদ, চট্টগ্রাম",
+    "phone": "০১৯০৮-৪০২২৩৩"
+  },
+  {
+    "name": "চট্টগ্রাম জেনারেল হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চট্টগ্রাম",
+    "upazilla": "চট্টগ্রাম সদর",
+    "address": "আন্দরকিল্লা, চট্টগ্রাম",
+    "phone": "০৩১৬১-১৪০৭"
+  },
+  {
+    "name": "কুমিল্লা মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "upazilla": "কুমিল্লা সদর দক্ষিণ",
+    "address": "কুমেক রোড, কুচাইতলী, কুমিল্লা",
+    "phone": "০৮১-৬৫১০০"
+  },
+  {
+    "name": "কুমিল্লা সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "upazilla": "কুমিল্লা সদর",
+    "address": "কুমিল্লা সদর",
+    "phone": "০৮১-৬২২৫১"
+  },
+  {
+    "name": "কুমিল্লা স্কয়ার হসপিটাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "upazilla": "কুমিল্লা সদর",
+    "address": "কুমিল্লা সদর",
+    "phone": "(অনুসন্ধান প্রয়োজন)"
+  },
+  {
+    "name": "টাওয়ার হাসপাতাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "কুমিল্লা",
+    "upazilla": "কুমিল্লা সদর",
+    "address": "কান্দিরপাড়, কুমিল্লা",
+    "phone": "০১৯০২-২২২২৭২"
+  },
+  {
+    "name": "কক্সবাজার সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "কক্সবাজার",
+    "upazilla": "কক্সবাজার সদর",
+    "address": "হাসপাতাল রোড, কক্সবাজার সদর",
+    "phone": "০৩৪১-৬৪৪৬৫"
+  },
+  {
+    "name": "কক্সবাজার মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "কক্সবাজার",
+    "upazilla": "কক্সবাজার সদর",
+    "address": "ঝিলংজা, কক্সবাজার",
+    "phone": "০৩৪১-৬২৯১০"
+  },
+  {
+    "name": "পপুলার হসপিটাল অ্যান্ড ডায়াগনস্টিক (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "কক্সবাজার",
+    "upazilla": "কক্সবাজার সদর",
+    "address": "হাসপাতাল রোড, কক্সবাজার",
+    "phone": "০১৮২৪-৫১৯৯৬৬"
+  },
+  {
+    "name": "ব্রাহ্মণবাড়িয়া ২৫০ শয্যা বিশিষ্ট সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "upazilla": "ব্রাহ্মণবাড়িয়া সদর",
+    "address": "সদর হাসপাতাল রোড, ব্রাহ্মণবাড়িয়া",
+    "phone": "০৮৫১-৬২০৫২"
+  },
+  {
+    "name": "ব্রাহ্মণবাড়িয়া ডায়াবেটিক হাসপাতাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "ব্রাহ্মণবাড়িয়া",
+    "upazilla": "ব্রাহ্মণবাড়িয়া সদর",
+    "address": "কাউতলী, ব্রাহ্মণবাড়িয়া",
+    "phone": "০১৭৫২-৯৯৬৬৫৭"
+  },
+  {
+    "name": "চাঁদপুর ২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "upazilla": "চাঁদপুর সদর",
+    "address": "চাঁদপুর সদর",
+    "phone": "০৮৪১-৬৩০৪০"
+  },
+  {
+    "name": "চাঁদপুর সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "upazilla": "চাঁদপুর সদর",
+    "address": "চাঁদপুর সদর",
+    "phone": "০৮৪১-৬৩২৯৫"
+  },
+  {
+    "name": "চাঁদপুর সেন্ট্রাল হসপিটাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "চাঁদপুর",
+    "upazilla": "চাঁদপুর সদর",
+    "address": "নতুন বাজার, চাঁদপুর",
+    "phone": "০১৮২২-৮৭৫৯৯৪"
+  },
+  {
+    "name": "ফেনী ২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "ফেনী",
+    "upazilla": "ফেনী সদর",
+    "address": "ট্রাঙ্ক রোড, ফেনী সদর",
+    "phone": "০৩৩১-৬২১২১"
+  },
+  {
+    "name": "ফেনী ডায়াবেটিক হাসপাতাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "ফেনী",
+    "upazilla": "ফেনী সদর",
+    "address": "ফেনী সদর",
+    "phone": "০১৯১-১৬০২৭৭৮"
+  },
+  {
+    "name": "লক্ষ্মীপুর ২৫০ শয্যা বিশিষ্ট সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "লক্ষ্মীপুর",
+    "upazilla": "লক্ষ্মীপুর সদর",
+    "address": "লক্ষ্মীপুর সদর",
+    "phone": "০৩৮১-৬২২০৯"
+  },
+  {
+    "name": "লক্ষ্মীপুর আধুনিক হাসপাতাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "লক্ষ্মীপুর",
+    "upazilla": "লক্ষ্মীপুর সদর",
+    "address": "লক্ষ্মীপুর সদর",
+    "phone": "০১৮৫৭-৮০৯৩৩৯"
+  },
+  {
+    "name": "নোয়াখালী ২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "upazilla": "নোয়াখালী সদর",
+    "address": "নোয়াখালী সদর",
+    "phone": "০৩২১-৬২২০৯"
+  },
+  {
+    "name": "নোয়াখালী ন্যাশনাল হাসপাতাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "নোয়াখালী",
+    "upazilla": "নোয়াখালী সদর",
+    "address": "মাইজদী কোর্ট, নোয়াখালী সদর",
+    "phone": "০১৭৫৯-০২০৬৬৬"
+  },
+  {
+    "name": "রাঙ্গামাটি সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "রাঙ্গামাটি",
+    "upazilla": "রাঙ্গামাটি সদর",
+    "address": "রাঙ্গামাটি সদর",
+    "phone": "০৩৭১-৬২০২৯"
+  },
+  {
+    "name": "রাঙ্গামাটি আধুনিক হাসপাতাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "রাঙ্গামাটি",
+    "upazilla": "রাঙ্গামাটি সদর",
+    "address": "রিজার্ভ বাজার, রাঙ্গামাটি",
+    "phone": "০১৭৪০-৬০৬০৫০"
+  },
+  {
+    "name": "খাগড়াছড়ি সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "খাগড়াছড়ি",
+    "upazilla": "খাগড়াছড়ি সদর",
+    "address": "খাগড়াছড়ি সদর",
+    "phone": "০৩৭১-৬১৪৬৩"
+  },
+  {
+    "name": "খাগড়াছড়ি মা ও শিশু হাসপাতাল (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "খাগড়াছড়ি",
+    "upazilla": "খাগড়াছড়ি সদর",
+    "address": "খাগড়াছড়ি সদর",
+    "phone": "(অনুসন্ধান প্রয়োজন)"
+  },
+  {
+    "name": "বান্দরবান সদর হাসপাতাল (সরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "বান্দরবান",
+    "upazilla": "বান্দরবান সদর",
+    "address": "বান্দরবান সদর",
+    "phone": "০৩৬১-৬২০১২"
+  },
+  {
+    "name": "বান্দরবান হসপিটাল অ্যান্ড ডায়াগনস্টিক (বেসরকারি)",
+    "division": "চট্টগ্রাম",
+    "district": "বান্দরবান",
+    "upazilla": "বান্দরবান সদর",
+    "address": "বান্দরবান সদর",
+    "phone": "০১৮২৮-৬৯৪৩৭৯"
+  },
+  {
+    "name": "খুলনা মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "upazilla": "সোনাডাঙ্গা",
+    "address": "সোনাডাঙ্গা, খুলনা",
+    "phone": "০২৪৭৭-৭০০৩৫০"
+  },
+  {
+    "name": "খুলনা সদর হাসপাতাল / ২৫০ শয্যা জেনারেল হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "upazilla": "খুলনা সদর",
+    "address": "সদর হাসপাতাল রোড, খুলনা",
+    "phone": "০১৭৩০-৩২৪৭৯৭"
+  },
+  {
+    "name": "খুলনা সিটি মেডিকেল কলেজ হাসপাতাল (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "upazilla": "খুলনা সদর",
+    "address": "ময়লাপোতার মোড়, কেডিএ এভিনিউ, খুলনা",
+    "phone": "০১৯৯৯-০৯৯০৯৯"
+  },
+  {
+    "name": "ইসলামী ব্যাংক হাসপাতাল, খুলনা (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "upazilla": "খুলনা সদর",
+    "address": "খান জাহান আলী রোড, শান্তিধাম মোড়, খুলনা",
+    "phone": "০১৭৯৭-৩৩৩৩১৮"
+  },
+  {
+    "name": "গাজী মেডিকেল কলেজ হাসপাতাল (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "খুলনা",
+    "upazilla": "সোনাডাঙ্গা",
+    "address": "এ-১৯, ২১ মজিদ সরণি, সোনাডাঙ্গা, খুলনা",
+    "phone": "০১৭৭৮-৪৫৫৮৫১"
+  },
+  {
+    "name": "যশোর ২৫০ শয্যা জেনারেল হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "upazilla": "যশোর সদর",
+    "address": "হাসপাতাল রোড, যশোর সদর",
+    "phone": "০৪২১-৬৬৪১০"
+  },
+  {
+    "name": "যশোর মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "upazilla": "যশোর সদর",
+    "address": "নিউটাউন, যশোর সদর",
+    "phone": "০৪২১-৬৬৭৫০"
+  },
+  {
+    "name": "আদ্-দ্বীন সকিনা মেডিকেল কলেজ হাসপাতাল (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "যশোর",
+    "upazilla": "যশোর সদর",
+    "address": "যশোর সদর",
+    "phone": "০১৩১৩-০৭৯৬০২"
+  },
+  {
+    "name": "সাতক্ষীরা মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "সাতক্ষীরা",
+    "upazilla": "সাতক্ষীরা সদর",
+    "address": "সাতক্ষীরা সদর",
+    "phone": "০১৭৩০-৩২৪৭৭৯"
+  },
+  {
+    "name": "সাতক্ষীরা সদর হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "সাতক্ষীরা",
+    "upazilla": "সাতক্ষীরা সদর",
+    "address": "সাতক্ষীরা সদর",
+    "phone": "০৪৭১-৬২৫২০"
+  },
+  {
+    "name": "সিটি হাসপাতাল (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "সাতক্ষীরা",
+    "upazilla": "সাতক্ষীরা সদর",
+    "address": "সাতক্ষীরা সদর",
+    "phone": "০১৭৯৭-২৭৭০৪৬"
+  },
+  {
+    "name": "বাগেরহাট ২৫০ শয্যা জেলা হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "বাগেরহাট",
+    "upazilla": "বাগেরহাট সদর",
+    "address": "বাগেরহাট সদর",
+    "phone": "০৪৬৮-৬৩০৬৬"
+  },
+  {
+    "name": "বাগেরহাট সিটি হাসপাতাল (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "বাগেরহাট",
+    "upazilla": "বাগেরহাট সদর",
+    "address": "সদর হাসপাতাল রোড, বাগেরহাট",
+    "phone": "০১৯১৪-৩৬৯৬৬১"
+  },
+  {
+    "name": "ঝিনাইদহ ২৫০ শয্যা জেনারেল হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "ঝিনাইদহ",
+    "upazilla": "ঝিনাইদহ সদর",
+    "address": "ঝিনাইদহ সদর",
+    "phone": "০৪৫১-৬২৫৭৫"
+  },
+  {
+    "name": "মডার্ন ক্লিনিক (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "ঝিনাইদহ",
+    "upazilla": "ঝিনাইদহ সদর",
+    "address": "ঝিনাইদহ সদর",
+    "phone": "০১৭৪২-২০৮৮২৫"
+  },
+  {
+    "name": "কুষ্টিয়া জেনারেল হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "কুষ্টিয়া",
+    "upazilla": "কুষ্টিয়া সদর",
+    "address": "কুষ্টিয়া সদর",
+    "phone": "০৭১-৬২২২২"
+  },
+  {
+    "name": "কুষ্টিয়া মেডিকেল কলেজ হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "কুষ্টিয়া",
+    "upazilla": "কুষ্টিয়া সদর",
+    "address": "কুষ্টিয়া সদর",
+    "phone": "০৭১-৬৬১০০"
+  },
+  {
+    "name": "মুক্তিযোদ্ধা হাসপাতাল ও ডায়াগনস্টিক (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "কুষ্টিয়া",
+    "upazilla": "কুষ্টিয়া সদর",
+    "address": "কুষ্টিয়া সদর",
+    "phone": "০১৭০৭-৪০০০৭৪"
+  },
+  {
+    "name": "মাগুরা ২৫০ শয্যা হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "মাগুরা",
+    "upazilla": "মাগুরা সদর",
+    "address": "মাগুরা সদর",
+    "phone": "০৪৬১-৬২৫৭৭"
+  },
+  {
+    "name": "মাগুরা নিউরন হাসপাতাল (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "মাগুরা",
+    "upazilla": "মাগুরা সদর",
+    "address": "মাগুরা সদর",
+    "phone": "০১৭৯৭-৮০২০২০"
+  },
+  {
+    "name": "নড়াইল ২৫০ শয্যা হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "নড়াইল",
+    "upazilla": "নড়াইল সদর",
+    "address": "নড়াইল সদর",
+    "phone": "০৪৬১-৬২২১৭"
+  },
+  {
+    "name": "নড়াইল নিরাময় ক্লিনিক (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "নড়াইল",
+    "upazilla": "নড়াইল সদর",
+    "address": "নড়াইল সদর",
+    "phone": "০১৯২০-১৬০৬১৫"
+  },
+  {
+    "name": "চুয়াডাঙ্গা ২৫০ শয্যা জেনারেল হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "চুয়াডাঙ্গা",
+    "upazilla": "চুয়াডাঙ্গা সদর",
+    "address": "চুয়াডাঙ্গা সদর",
+    "phone": "০৭৬১-৬৩০১৬"
+  },
+  {
+    "name": "আল-হেরা হাসপাতাল (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "চুয়াডাঙ্গা",
+    "upazilla": "চুয়াডাঙ্গা সদর",
+    "address": "চুয়াডাঙ্গা সদর",
+    "phone": "০১৯৭৮-৪৮৭৩০০"
+  },
+  {
+    "name": "মেহেরপুর ২৫০ শয্যা জেনারেল হাসপাতাল (সরকারি)",
+    "division": "খুলনা",
+    "district": "মেহেরপুর",
+    "upazilla": "মেহেরপুর সদর",
+    "address": "মেহেরপুর সদর",
+    "phone": "০৭৯১-৬২৫৭৭"
+  },
+  {
+    "name": "মেহেরপুর এইড ক্লিনিক (বেসরকারি)",
+    "division": "খুলনা",
+    "district": "মেহেরপুর",
+    "upazilla": "মেহেরপুর সদর",
+    "address": "মেহেরপুর সদর",
+    "phone": "০১৭৪৬-৮৪২২২৩"
+  },
+  {
+    "name": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতাল",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "upazilla": "ময়মনসিংহ সদর",
+    "address": "চরপাড়া, ময়মনসিংহ ২২২০",
+    "phone": "০৯১-৬২৪০৩"
+  },
+  {
+    "name": "ময়মনসিংহ ২৫০ শয্যা জেনারেল হাসপাতাল/সদর হাসপাতাল",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "upazilla": "ময়মনসিংহ সদর",
+    "address": "চরপাড়া, ময়মনসিংহ",
+    "phone": "০৯১-৬২১৪০"
+  },
+  {
+    "name": "কমিউনিটি বেজড মেডিকেল কলেজ ও হাসপাতাল",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "upazilla": "ময়মনসিংহ সদর",
+    "address": "ময়মনসিংহ সদর, ব্ৰহ্মপুত্র নদী পাড়",
+    "phone": "০৯১৬৬-৭৭০০৯৯"
+  },
+  {
+    "name": "পপুলার ডায়াগনস্টিক সেন্টার",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "upazilla": "ময়মনসিংহ সদর",
+    "address": "২৫২/১, চরপাড়া রোড (মেডিকেল কলেজের বিপরীতে)",
+    "phone": "০৯৬১৩-৭৮৭৮১৪"
+  },
+  {
+    "name": "ল্যাবএইড ডায়াগনস্টিক হসপিটাল",
+    "division": "ময়মনসিংহ",
+    "district": "ময়মনসিংহ",
+    "upazilla": "ময়মনসিংহ সদর",
+    "address": "৭২, চরপাড়া, মেডিকেল কলেজ গেট",
+    "phone": "০১৭৬৬-৬৬৩০০০"
+  },
+  {
+    "name": "জামালপুর ২৫০ শয্যা জেনারেল হাসপাতাল",
+    "division": "ময়মনসিংহ",
+    "district": "জামালপুর",
+    "upazilla": "জামালপুর সদর",
+    "address": "জামালপুর সদর",
+    "phone": "০৯৮১-৬২২০৯"
+  },
+  {
+    "name": "আল মদিনা ডায়াগনস্টিক সেন্টার",
+    "division": "ময়মনসিংহ",
+    "district": "জামালপুর",
+    "upazilla": "জামালপুর সদর",
+    "address": "জামালপুর সদর",
+    "phone": "০১৯০২-২৯৮৫৫৮"
+  },
+  {
+    "name": "শেরপুর ২৫০ শয্যা জেনারেল হাসপাতাল",
+    "division": "ময়মনসিংহ",
+    "district": "শেরপুর",
+    "upazilla": "শেরপুর সদর",
+    "address": "শেরপুর সদর",
+    "phone": "০৯৩১-৬১২২২"
+  },
+  {
+    "name": "শেরপুর মেডিকেয়ার হসপিটাল",
+    "division": "ময়মনসিংহ",
+    "district": "শেরপুর",
+    "upazilla": "শেরপুর সদর",
+    "address": "রঘুনাথ মার্কেট, নিউমার্কেট, শেরপুর",
+    "phone": "০১৭২১-৫৩২২১৩"
+  },
+  {
+    "name": "নেত্রকোণা ২৫০ শয্যা জেনারেল হাসপাতাল",
+    "division": "ময়মনসিংহ",
+    "district": "নেত্রকোণা",
+    "upazilla": "নেত্রকোণা সদর",
+    "address": "নেত্রকোণা সদর",
+    "phone": "০৯২১-৬২১৪৪"
+  },
+  {
+    "name": "মেডিকেল টাওয়ার হসপিটাল অ্যান্ড ডায়াগনস্টিক",
+    "division": "ময়মনসিংহ",
+    "district": "নেত্রকোণা",
+    "upazilla": "নেত্রকোণা সদর",
+    "address": "নেত্রকোণা সদর",
+    "phone": "০১৮৫৭-৮০৯৩৩৯"
+  }
 ]
